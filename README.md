@@ -10,12 +10,6 @@ A very simple webpack config for learning purposes. Mainly made to answer this [
 You need to have [Node](https://nodejs.org/en/download/current/) v7.6.0 installed on your machine. 
 
 
-### Clean dependencies
-Clear the npm cache using and delete node_modules directory by running:
-
-```bash
-$ npm run clean
-```
 
 
 ### Installing
