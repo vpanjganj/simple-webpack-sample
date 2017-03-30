@@ -2,7 +2,7 @@
   "name": "webpack-sample",
   "version": "1.0.0",
   "description": "Simple webpack sample.",
-  "main": "./app/index.js",
+  "main": "./app/main.js",
   "scripts": {
     "clean": "rm -R ./node_modules && npm cache clean",
     "build": "./node_modules/.bin/webpack  --color --display-error-details --config ./webpack.js"
