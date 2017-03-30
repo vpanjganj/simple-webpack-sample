@@ -16,13 +16,13 @@ $ npm install
 ```
 
 
-### build
+### Build
 
 ```bash
 $ npm run build 
 ```
 
-### run
+### Run
 
 ```bash
 $ node ./dist/bundle.js  
