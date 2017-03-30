@@ -1,7 +1,4 @@
 ## simple-webpack-sample
-
-## Getting Started
-
 A very simple webpack config for learning purposes. Mainly made to answer this [stackoverflow question](https://stackoverflow.com/questions/43114455/compress-and-minify-multiples-javascript-files-into-one-with-webpack).
 
 
